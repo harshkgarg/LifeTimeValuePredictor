@@ -3,12 +3,6 @@
 #  CUSTOMER LIFE TIME VALUE PREDICTION
 <br>
 
-![Alt Text](https://github.com/DheerajKumar97/Automated-ML-Application-for-EDA-Streamlit-Deployment--Heroku/blob/master/heroku-.png)
-
-<br>
-
-Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
-
 ## DEPLOYMENT OUTPUT 
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clvout.png)
